@@ -1,0 +1,3 @@
+Surname: Ivanov; Info: Ivan Ivanov, manager
+Surname: Fo; Info: Fo: no such person
+Surname: Fox; Info: Samanta Fox, singer
